@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\bin\Debug\net7.0\2 - Maior numeros entre eles.exe
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\bin\Debug\net7.0\2 - Maior numeros entre eles.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\bin\Debug\net7.0\2 - Maior numeros entre eles.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\bin\Debug\net7.0\2 - Maior numeros entre eles.dll
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\bin\Debug\net7.0\2 - Maior numeros entre eles.pdb
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.dll
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\refint\2 - Maior numeros entre eles.dll
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.pdb
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\2 - Maior numeros entre eles.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\2 - Maior numeros entre eles\obj\Debug\net7.0\ref\2 - Maior numeros entre eles.dll

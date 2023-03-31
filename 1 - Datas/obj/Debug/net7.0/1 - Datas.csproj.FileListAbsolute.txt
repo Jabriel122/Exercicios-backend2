@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\bin\Debug\net7.0\1 - Datas.exe
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\bin\Debug\net7.0\1 - Datas.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\bin\Debug\net7.0\1 - Datas.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\bin\Debug\net7.0\1 - Datas.dll
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\bin\Debug\net7.0\1 - Datas.pdb
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.dll
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\refint\1 - Datas.dll
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.pdb
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\1 - Datas.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicios-backend2\1 - Datas\obj\Debug\net7.0\ref\1 - Datas.dll
